@@ -4,5 +4,6 @@ numpy>=1.24.0
 scipy>=1.10.0
 huggingface_hub>=0.20.0
 scikit-learn>=1.2.0
+networkx>=3.0
 gudhi>=3.8.0          # for persistent homology (optional, but strongly recommended)
 # If gudhi not available, we use a fallback with networkx + scipy

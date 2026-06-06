@@ -2,7 +2,7 @@ name: Daily Derived AG Training
 
 on:
   schedule:
-    - cron: '0 01 * * *'
+    - cron: '20 03 * * *'
   workflow_dispatch:
 
 jobs:
